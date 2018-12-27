@@ -7,52 +7,36 @@
 
 * IDEF0-диаграмма в развернутом виде:
 
-![none](https://github.com/vadimmaslikhin/vadimmaslikhin.github.io/blob/master/01_A0.png)
+![none](https://github.com/vadimmaslikhin/vadimmaslikhin.github.io/blob/master/labs/01_A0.png)
 
-* [IDEF0-диаграмма в формате .rsf](https://github.com/vadimmaslikhin/vadimmaslikhin.github.io/blob/master/kurs.rsf)
+* [IDEF0-диаграмма в формате .rsf](https://github.com/vadimmaslikhin/vadimmaslikhin.github.io/blob/master/labs/lab.rsf)
 
 #### Создание диаграммы классов и диаграммы прецедентов в PLANTUML.
 
-* [Текст](https://github.com/desmoll/solovyeva.github.io/blob/master/Laba1/Текст%20диаграммы%20классов.txt) и рисунок диаграммы классов <br>
-![none](https://github.com/desmoll/solovyeva.github.io/blob/master/Laba1/Диаграмма%20классов.png) 
+* [Текст](https://github.com/vadimmaslikhin/vadimmaslikhin.github.io/blob/master/labs/1текс.png) и рисунок диаграммы классов <br>
+![none](https://github.com/vadimmaslikhin/vadimmaslikhin.github.io/blob/master/labs/1.png) 
 
-* [Текст](https://github.com/desmoll/solovyeva.github.io/blob/master/Laba1/Текст%20диаграммы%20прецедентов.txt) и рисунок диаграммы классов <br>
-![none](https://github.com/desmoll/solovyeva.github.io/blob/master/Laba1/Диаграмма%20прецедентов.png) 
+* [Текст](https://github.com/vadimmaslikhin/vadimmaslikhin.github.io/blob/master/labs/2текст.png) и рисунок диаграммы прецендентов <br>
+![none](https://github.com/vadimmaslikhin/vadimmaslikhin.github.io/blob/master/labs/2.png) 
 ***
 
-### Лабораторная работа №2.
+### Лабораторная работа №2-3.
 ***
-* Диаграмма IDEF0 - А0 "Организовывать конференцию"
+* Диаграмма IDEF0 - А0 "Произвести"
 
-![none](https://github.com/vadimmaslikhin/vadimmaslikhin.github.io/blob/master/01_A0.png)
+![none](https://github.com/vadimmaslikhin/vadimmaslikhin.github.io/blob/master/labs/01_A0.png)
 
 * Диаграмма IDEF0 - декомпозиция А0 в А1-А2-А3 по принципу Plan-Do-Check
 
-![none](https://github.com/vadimmaslikhin/vadimmaslikhin.github.io/blob/master/01_A0.png)
+![none](https://github.com/vadimmaslikhin/vadimmaslikhin.github.io/blob/master/labs/02_A0.png)
 
-* Диаграмма DFD - декомпозиция А3 "Сборка макета"
+* Диаграмма DFD - декомпозиция А2 "Сверстать"
 
-![none](https://github.com/desmoll/solovyeva.github.io/blob/master/Laba2/DFD.png)
+![none](https://github.com/vadimmaslikhin/vadimmaslikhin.github.io/blob/master/labs/03_A2.png)
 
-* [Диаграммы в формате .rsf](https://github.com/desmoll/solovyeva.github.io/blob/master/Laba2/Модель.rsf)
+* [Диаграммы в формате .rsf](https://github.com/vadimmaslikhin/vadimmaslikhin.github.io/blob/master/labs/lab.rsf)
 ***
 
-### Лабораторная работа №3
-***
-#### Определение способов существования информации
-
- * Диаграмма DFD - Главный контекст модели
- ![none](https://github.com/desmoll/solovyeva.github.io/blob/master/Laba3/DFD.png)
- * Диаграмма DFD - А0. Деятельность дизайнерского отдела
- ![none](https://github.com/desmoll/solovyeva.github.io/blob/master/Laba3/DFD%20A0.png)
- * Диаграмма DFD - декомпозиция в А2. Прием заказов
- ![none](https://github.com/desmoll/solovyeva.github.io/blob/master/Laba3/DFD%20A2.png)
- *  Диаграмма DFD - декомпозиция в А3. Разработка и создание макета
- ![none](https://github.com/desmoll/solovyeva.github.io/blob/master/Laba3/DFD%20A3.png)
- [Диаграммы третьей лабораторной работы в формате .rsf](https://github.com/desmoll/solovyeva.github.io/blob/master/Laba3/Модель.rsf)
- * ERD-диаграмма
- ![none](https://github.com/desmoll/solovyeva.github.io/blob/master/Laba3/ERD.png)
-***
 ### Лабораторная работа №4
 ***
 ### Разработка диаграмм в RAMUS
